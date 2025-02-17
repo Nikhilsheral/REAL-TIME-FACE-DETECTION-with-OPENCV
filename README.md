@@ -1,4 +1,4 @@
-This Python code implements real-time face detection using OpenCV (cv2) and a pre-trained Haar Cascade classifier.  Here's a breakdown:
+This project implements real-time face detection using OpenCV (cv2) and a pre-trained Haar Cascade classifier.  Here's a breakdown:
 
 1. **Library Imports:**
    - `cv2`: The OpenCV library, essential for computer vision tasks like image processing, video capture, and face detection.
