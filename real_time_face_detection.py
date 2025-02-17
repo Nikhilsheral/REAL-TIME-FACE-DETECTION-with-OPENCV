@@ -1,3 +1,6 @@
+#pip install opencv-python
+#python file_name.py
+
 # Import necessary libraries
 import cv2
 import numpy as np
